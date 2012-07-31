@@ -14,7 +14,8 @@
     <packaging>pom</packaging>
 
     <name>IzPack parent</name>
-    <description>IzPack parent module</description>
+    <description>IzPack parent module
+Arondor style</description>
     <url>http://izpack.org/</url>
 
     <modules>

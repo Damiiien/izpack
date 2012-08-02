@@ -65,7 +65,7 @@
         <panel classname="InfoPanel" />
         <panel classname="LicencePanel" />
         <panel classname="TargetPanel" />
-        <panel classname="PacksPanel" />
+        <panel classname="InstallationTypePanel" />
         <panel classname="InstallPanel" />
         <panel classname="FinishPanel" />
     </panels>
